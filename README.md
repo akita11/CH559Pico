@@ -1,6 +1,6 @@
-# CH558Pico
+# CH559Pico
 
-<img src="https://github.com/akita11/CH558Pico/blob/main/CH559Pico.jpg" width="240px">
+<img src="https://github.com/akita11/CH559Pico/blob/main/CH559Pico.jpg" width="240px">
 
 [WCH(南京沁恒微电子股份有限公司)](http://wch-ic.com/)の8ビットマイコン[CH559](http://wch-ic.com/products/CH559.html)を使った、RaspberryPi Pico型のマイコンボードです。
 主な特徴は以下のとおりです。
@@ -17,7 +17,7 @@
 
 ## ピン配置
 
-<img src="https://github.com/akita11/CH558Pico/blob/main/CH558Pico_pin.png" width="480px">
+<img src="https://github.com/akita11/CH559Pico/blob/main/CH559Pico_pin.png" width="480px">
 
 
 ## Author
