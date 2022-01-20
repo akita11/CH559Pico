@@ -17,7 +17,7 @@
 
 ## ピン配置
 
-<img src="https://github.com/akita11/CH558Pico/blob/main/CH558Pico_pin.png" width="240px">
+<img src="https://github.com/akita11/CH558Pico/blob/main/CH558Pico_pin.png" width="480px">
 
 
 ## Author
