@@ -31,9 +31,3 @@
 ## Author
 
 Junichi Akita (@akita11) / akita@ifdl.jp
-
-
-
-
-
-
